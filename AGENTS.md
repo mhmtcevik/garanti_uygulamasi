@@ -505,8 +505,6 @@ The app should be cleanly fed by mock data until a real backend is introduced.
 
 Create a mock data provider or mock service layer instead of scattering hard-coded sample data randomly inside views.
 
-Mock data should feel realistic enough for a YouTube demo.
-
 The mock structure should make it easy to later replace mock services with real API services.
 
 Avoid messy placeholder code.
@@ -528,12 +526,6 @@ If a feature is not fully implemented yet, use a reasonable demo behavior such a
 - toggling a meaningful local state.
 
 Avoid fake UI that does nothing when tapped.
-
-The app should feel complete and functional for the recorded YouTube demo.
-
-### Clean Demo Quality
-
-The project should be suitable for a YouTube development video.
 
 Prioritize:
 
